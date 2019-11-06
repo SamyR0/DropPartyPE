@@ -9,7 +9,8 @@ use dropparty\task\DropPartyTask;
 use pocketmine\utils\Config;
 use pocketmine\scheduler\PluginTask
 	
-class DropParty extends PluginBase {
+
+	class DropParty extends PluginBase {
 
 	public $secs = 0;
         public $tasks = [];
